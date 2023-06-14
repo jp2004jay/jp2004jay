@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 **jp2004jay/jp2004jay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQC9FKPJyyyQ5itr1NkFLyr-STjf-Ux4JbMA&usqp=CAU">
+-->
