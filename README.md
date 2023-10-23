@@ -4,7 +4,8 @@ Unlocking Digital Potential with MERN Magic ✨ | Passionate Problem Solver
 
 ### 💼 What I Bring to the Table:
 
-🛠️ Full-Stack Proficiency: Mastering the MERN (MongoDB, Express.js, React, Node.js) Stack is my forte. From pixel-perfect frontend interfaces to robust backend solutions, I've got you covered.
+# 🛠️ Full-Stack Proficiency: 
+Mastering the MERN (MongoDB, Express.js, React, Node.js) Stack is my forte. From pixel-perfect frontend interfaces to robust backend solutions, I've got you covered.
 
 🚀 Business-Driven Solutions: My development skills are backed by a deep understanding of how technology can drive business success. I ensure that every line of code contributes to your bottom line.
 
