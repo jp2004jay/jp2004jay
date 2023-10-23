@@ -6,21 +6,21 @@ Unlocking Digital Potential with MERN Magic ✨ | Passionate Problem Solver
 
 <b>🛠️ Full-Stack Proficiency:</b> Mastering the MERN (MongoDB, Express.js, React, Node.js) Stack is my forte. From pixel-perfect frontend interfaces to robust backend solutions, I've got you covered.
 
-🚀 Business-Driven Solutions: My development skills are backed by a deep understanding of how technology can drive business success. I ensure that every line of code contributes to your bottom line.
+<b>🚀 Business-Driven Solutions:</b> My development skills are backed by a deep understanding of how technology can drive business success. I ensure that every line of code contributes to your bottom line.
 
-🧰 Versatile Toolkit: I thrive on challenges. Whether it's an e-commerce platform, a social networking app, or a dynamic portfolio site, I have the tools and expertise to bring your vision to life.
+<b>🧰 Versatile Toolkit:</b> I thrive on challenges. Whether it's an e-commerce platform, a social networking app, or a dynamic portfolio site, I have the tools and expertise to bring your vision to life.
 
-🌐 Future-Ready Development: Staying at the forefront of web technology is my commitment. I'm well-versed in the latest trends and tools, ensuring your project is always ahead of the curve.
+<b>🌐 Future-Ready Development:</b> Staying at the forefront of web technology is my commitment. I'm well-versed in the latest trends and tools, ensuring your project is always ahead of the curve.
 
-🤝 Client-Centered Approach: Collaboration is key. I'm not just your developer; I'm your partner. Your success is my success, and I take pride in delivering projects that exceed expectations.
+<b>🤝 Client-Centered Approach:</b> Collaboration is key. I'm not just your developer; I'm your partner. Your success is my success, and I take pride in delivering projects that exceed expectations.
 
 ### 🔍 What Sets Me Apart:
 
-🏆 Proven Track Record: My portfolio includes a diverse range of projects, each with a success story. Let's turn your project into the next success story.
+<b>🏆 Proven Track Record:</b> My portfolio includes a diverse range of projects, each with a success story. Let's turn your project into the next success story.
 
-💬 Stellar Client Feedback: Check out the testimonials on my website to see how I've made a difference for clients. Your satisfaction is my top priority.
+<b>💬 Stellar Client Feedback:</b> Check out the testimonials on my website to see how I've made a difference for clients. Your satisfaction is my top priority.
 
-🚢 Project Delivery: I understand the importance of timelines. Rest assured, I will deliver your project on schedule without compromising on quality.
+<b>🚢 Project Delivery:</b> I understand the importance of timelines. Rest assured, I will deliver your project on schedule without compromising on quality.
 
 ### 🌍 Let's Connect and Collaborate!
 Ready to embark on a web development journey that transforms your ideas into digital reality? Let's discuss how I can leverage my skills to benefit your business. Connect with me here or visit my portfolio website to explore my work and get in touch.
