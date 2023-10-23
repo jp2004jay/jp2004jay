@@ -1,6 +1,6 @@
 Unlocking Digital Potential with MERN Magic ✨ | Passionate Problem Solver
 
-👋 Hello! I'm Jay Ramani, a seasoned MERN Stack freelancer with over a decade of hands-on experience in building powerful web applications and driving digital transformation. 🚀
+👋 Hello! I'm Jay Ramani, a seasoned MERN Stack Developer with over a decade of hands-on experience in building powerful web applications and driving digital transformation. 🚀
 
 ### 💼 What I Bring to the Table:
 
