@@ -1,10 +1,10 @@
-Unlocking Digital Potential with MERN Magic ✨ | Passionate Problem Solver
+Unlocking Digital Potential with MEARN Magic ✨ | Passionate Problem Solver
 
-👋 Hello! I'm Jay Ramani, a seasoned MERN Stack Developer with over a decade of hands-on experience in building powerful web applications and driving digital transformation. 🚀
+👋 Hello! I'm Jay Ramani, a seasoned MEARN Stack Developer with over a decade of hands-on experience in building powerful web applications and driving digital transformation. 🚀
 
 ### 💼 What I Bring to the Table:
 
-<b>🛠️ Full-Stack Proficiency:</b> Mastering the MERN (MongoDB, Express.js, React, Node.js) Stack is my forte. From pixel-perfect frontend interfaces to robust backend solutions, I've got you covered.
+<b>🛠️ Full-Stack Proficiency:</b> Mastering the MEARN (MongoDB, Express.js, Angular, React, Node.js) Stack is my forte. From pixel-perfect frontend interfaces to robust backend solutions, I've got you covered.
 
 <b>🚀 Business-Driven Solutions:</b> My development skills are backed by a deep understanding of how technology can drive business success. I ensure that every line of code contributes to your bottom line.
 
@@ -25,6 +25,6 @@ Unlocking Digital Potential with MERN Magic ✨ | Passionate Problem Solver
 ### 🌍 Let's Connect and Collaborate!
 Ready to embark on a web development journey that transforms your ideas into digital reality? Let's discuss how I can leverage my skills to benefit your business. Connect with me here or visit my portfolio website to explore my work and get in touch.
 
-🌐 <a href="https://drive.google.com/file/d/1FlKy0A_EESq7z87t_mXm6xWtFiJmi8um/view">Portfolio Website</a> | 📧 Email: ramanijay2004@gmail.com | <a href="https://www.linkedin.com/in/jay-ramani-122527202/">LinkedIn Profile</a>
+📧 Email: ramanijay2004@gmail.com | <a href="https://www.linkedin.com/in/jay-ramani-122527202/">LinkedIn Profile</a>
 
 Join me on this exciting journey of innovation, and let's create remarkable digital experiences together. 💻🚀
